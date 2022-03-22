@@ -56,8 +56,16 @@
     "@codemirror/state": "^0.19.9",
     "@codemirror/theme-one-dark": "^0.19.1",
     "@codemirror/view": "^0.19.47",
+    "assert": "^2.0.0",
     "electron-updater": "4.6.5",
+    "github-markdown-css": "^5.1.0",
+    "hast-util-sanitize": "^4.0.0",
+    "process": "^0.11.10",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "remark-gfm": "^3.0.1",
+    "remark-parse": "^10.0.1",
+    "remark-react": "^9.0.1",
+    "unified": "^10.1.2"
   }
 }
